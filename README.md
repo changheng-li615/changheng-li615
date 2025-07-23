@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Changheng Li
 
-<!--
-**changheng-li615/changheng-li615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Software Engineering (Honours) student at Monash University  
+💻 Interested in Frontend & Full Stack Web Development  
+🌱 Currently learning React, Node.js and MongoDB  
+🚀 Building real-world projects & actively looking for internships  
+📫 Reach me at clii0078@student.monash.edu  
 
-Here are some ideas to get you started:
+## 🔧 Technologies I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: JavaScript, HTML, CSS, Python  
+- Frameworks: React, Express.js  
+- Tools: Git, GitHub, VS Code  
+- Databases: MongoDB, Firebase  
+
+## 📂 Featured Projects
+
+---
+
+> “Code is poetry.”
+
