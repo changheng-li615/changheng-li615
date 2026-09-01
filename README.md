@@ -6,7 +6,7 @@ Interested in **Software Engineering, Full-Stack and Frontend Development**
 Based in Melbourne, Australia
 Open to **Graduate Software Engineer, Junior Developer and Internship opportunities**
 
-Tech Stack
+**Tech Stack**
 
 Languages
 TypeScript · JavaScript · C# · Python · SQL · HTML · CSS
@@ -26,8 +26,8 @@ Git · GitHub · Docker · Docker Compose · GitHub Actions · VS Code
 Software Engineering
 REST APIs · Database Design · API Integration · Automated Testing · Debugging · Data Validation · CI/CD · Security · Production QA
 
-Featured Projects
-Endpoint Monitor
+**Featured Projects
+Endpoint Monitor**
 
 C# · .NET · WPF · Next.js · TypeScript · PostgreSQL · Prisma · Docker
 
@@ -55,16 +55,8 @@ Added credential rotation and revocation support
 Designed the agent around a local-first, network-second architecture
 Containerised backend infrastructure using Docker and PostgreSQL
 Built automated test suites across both the .NET agent and TypeScript backend
-Validation
-66 .NET tests passed
-42 server tests passed
-Strict TypeScript validation passed
-Production Next.js build passed
-.NET build completed with zero warnings and zero errors
 
-This project strengthened my understanding of distributed systems, secure client/server communication, Windows development, asynchronous processing, database design and reliability engineering.
-
-Sports-Lens
+**Sports-Lens**
 
 Next.js · TypeScript · Data Analytics · CSV Processing
 
@@ -88,16 +80,8 @@ Supported complete and partially valid imports while rejecting malformed request
 Added validation for oversized uploads
 Separated raw imported match data from calculated analytics
 Built reusable calculation and aggregation modules shared across rankings, profiles and comparisons
-Validation
-18/18 deterministic CSV test cases passed
-Valid and partial imports successfully processed
-Invalid requests correctly rejected
-Oversized uploads correctly blocked
-Application routes tested for expected success and not-found behaviour
 
-Sports-Lens gave me practical experience designing data-processing pipelines and turning raw datasets into reliable, explainable analytics.
-
-Wuxia Strategy Toolkit
+**Wuxia Strategy Toolkit**
 
 Next.js · TypeScript · Prisma · PostgreSQL · Docker · Konva
 
@@ -124,7 +108,7 @@ Implemented persistent JSON-based tactical state
 Added automated integration tests for core application workflows
 Containerised the application and PostgreSQL environment with Docker
 
-WatchTower Monitoring Platform
+**WatchTower Monitoring Platform**
 
 Next.js · TypeScript · Prisma · PostgreSQL · Docker
 
@@ -145,8 +129,8 @@ I also worked on foundations for read-only integrations with external business s
 
 Some Xugar internship source code is private and cannot be published publicly.
 
-Industry Experience
-Software Development Intern — Xugar
+**Industry Experience
+Software Development Intern — Xugar**
 
 During my internship I have worked across software development, internal tooling, API integration, website QA and business systems.
 
@@ -165,7 +149,7 @@ WordPress
 HubSpot CRM workflows
 Windows/.NET development
 
-Contact
+**Contact**
 
 📧 changhengli615@gmail.com
 
